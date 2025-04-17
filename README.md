@@ -15,10 +15,6 @@ As an E-Commerce major switcher with a strong passion for User Interface and Use
 
 Project Management Tools: Trello, GitHub, Jira
 
-## Methodologies and Tools
-* Agile/Scrum: Experienced with Agile and Scrum methodologies, enhancing collaboration and efficiency in the software development lifecycle.
-* Project Management Tools: Proficient in using management tools such as GitHub, Jira, and Trello for tracking tasks and collaborating with team members.
-
 ## Project
 **Mobile App Development**
 
