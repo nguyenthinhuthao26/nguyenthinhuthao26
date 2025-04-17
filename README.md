@@ -26,8 +26,8 @@ Project Management Tools: Trello, GitHub, Jira
   + Conducted user research and basic business analysis (BA)
   + Designed wireframes and mockups using Figma
   + Participated in front-end development and implemented basic app functionalities
-  + ([Link to Figma](https://www.figma.com/design/5S9CNkEA6viA86GePA5Nht/Hosme-Android?node-id=0-1&t=45nakCBoYoKIQ6uc-1))
-  + ([Link to Project](https://github.com/nguyenthinhuthao26/App_Development_HOSME))
+  + [Link to Figma](https://www.figma.com/design/5S9CNkEA6viA86GePA5Nht/Hosme-Android?node-id=0-1&t=45nakCBoYoKIQ6uc-1)
+  + [Link to Project](https://github.com/nguyenthinhuthao26/App_Development_HOSME)
     
 **WEB DEVELOPMENT**
 
@@ -39,7 +39,7 @@ Project Management Tools: Trello, GitHub, Jira
 + Collected requirements and performed basic business analysis
 + Designed website layouts for both user and admin interfaces
 + Built responsive web interfaces using HTML, CSS, JavaSctrip and Bootstrap
-+ ([Link to Project](https://github.com/nguyenthinhuthao26/Web_Development_FIVC))
++ [Link to Project](https://github.com/nguyenthinhuthao26/Web_Development_FIVC)
 
 ## Certificate:
 * TOIEC 4 Skills by IIG Viet Nam ([View Certificate](https://drive.google.com/file/d/12yLVVmbngxhL4BP3kaisCj-D9akIpYvd/view?usp=sharing))
